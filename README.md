@@ -1,1 +1,1 @@
-# HomeWork_Genius
+# genius-homework-1
